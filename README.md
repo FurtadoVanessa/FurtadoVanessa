@@ -13,7 +13,7 @@
 
 - A passionate iOS Software Engineer
 - Graduated in Computer Engineer Degree
-- 2+ years of iOS development experience 
+- Working with iOS development since 2020 
 - Currently working remotly at iFood, the biggest FoodTech in Latin America
 - I’m currently studying SwiftUI, async/await, and always developing architecture skills
 
@@ -28,7 +28,7 @@
 
 - **Languages**:
     
-    <img height=100 src="https://user-images.githubusercontent.com/46467702/234149163-389bb95e-537c-406b-a271-153bcd207ede.png">
+    <img height=100 src="https://user-images.githubusercontent.com/46467702/234269529-0a41c98e-a53f-4bf4-9853-69c7355d4460.png">
 
 <br>   
     
@@ -59,29 +59,11 @@
     - Dependency Injection patterns, anti-patterns, what to use in which ocasion
     - SwiftUI
     - Async/await
-    
+
 <br>
 <br>
 	
 -----
-
-## **Check out my GitHub repository:**
-
-<div>
-  <p>
-    <a href="https://github.com/FurtadoVanessa/BrailleApp">
-      <img src="https://user-images.githubusercontent.com/46467702/234151401-abde4cd5-11f1-46c7-9925-f08b117fdcad.png" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/FurtadoVanessa/Flashcards">
-      <img src="https://user-images.githubusercontent.com/46467702/234151577-c36d13cd-e27e-4d44-b314-d9612959b219.png" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
-
------
-
-<br>
-<br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
@@ -99,7 +81,7 @@
 
 <li>
 <a href="https://twitter.com/FurtaramVanessa" target="_blank">
-<img src="https://img.shields.io/badge/twitter:   VanessaFurtado-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/twitter:   FurtaramVanessa-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -107,7 +89,7 @@
 
 <li>
 <a href="mailto:vanessa.furtado.fagundes@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  VanessaFurtado-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  vanessa.furtado.fagundes-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
