@@ -61,13 +61,24 @@
     - Async/await
     
 <br>
-
 <br>
-<br>
-
+	
 -----
 
-<br>
+## **Check out my GitHub repository:**
+
+<div>
+  <p>
+    <a href="https://github.com/FurtadoVanessa/BrailleApp">
+      <img src="https://user-images.githubusercontent.com/46467702/234151401-abde4cd5-11f1-46c7-9925-f08b117fdcad.png" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/FurtadoVanessa/Flashcards">
+      <img src="https://user-images.githubusercontent.com/46467702/234151577-c36d13cd-e27e-4d44-b314-d9612959b219.png" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
+
+-----
 
 <br>
 <br>
